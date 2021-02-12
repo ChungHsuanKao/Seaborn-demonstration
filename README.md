@@ -6,3 +6,5 @@ A demonstration for Austin and the DC python meetups @ 2/16
 - Figure-level and axis-level functions
 - Univariate plots
 - Multivariate plots
+
+Reference: [Seaborn official website](https://seaborn.pydata.org/index.html)
